@@ -1,0 +1,62 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 0000006F 427E:26C3
+C:\DOCUSAURUS\BAMBOO-MICROSERVICES\DOCS
+³   intro.md
+³   
+ÃÄÄÄtutorial-basics
+³       congratulations.md
+³       create-a-blog-post.md
+³       create-a-document.md
+³       create-a-page.md
+³       deploy-your-site.md
+³       markdown-features.mdx
+³       _category_.json
+³       
+ÀÄÄÄtutorial-extras
+    ³   manage-docs-versions.md
+    ³   translate-your-site.md
+    ³   _category_.json
+    ³   
+    ÀÄÄÄimg
+            docsVersionDropdown.png
+            localeDropdown.png
+            
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 00000094 427E:26C3
+C:\DOCUSAURUS\BAMBOO-MICROSERVICES\I18N\ES\DOCUSAURUS-PLUGIN-CONTENT-DOCS
+³   current.json
+³   
+ÀÄÄÄcurrent
+    ³   intro.md
+    ³   
+    ÃÄÄÄtutorial-basics
+    ³       congratulations.md
+    ³       create-a-blog-post.md
+    ³       create-a-document.md
+    ³       create-a-page.md
+    ³       deploy-your-site.md
+    ³       markdown-features.mdx
+    ³       _category_.json
+    ³       
+    ÀÄÄÄtutorial-extras
+        ³   manage-docs-versions.md
+        ³   translate-your-site.md
+        ³   _category_.json
+        ³   
+        ÀÄÄÄimg
+                docsVersionDropdown.png
+                localeDropdown.png
+                
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 000000E7 427E:26C3
+C:\DOCUSAURUS\BAMBOO-MICROSERVICES\I18N\ES\DOCUSAURUS-PLUGIN-CONTENT-BLOG
+    options.json
+    
+No existe ninguna subcarpeta 
+
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 00000043 427E:26C3
+C:\DOCUSAURUS\BAMBOO-MICROSERVICES\I18N\ES\DOCUSAURUS-PLUGIN-CONTENT-PAGES
+Ruta de acceso no v lida: \DOCUSAURUS\BAMBOO-MICROSERVICES\I18N\ES\DOCUSAURUS-PLUGIN-CONTENT-PAGES
+No existe ninguna subcarpeta 
+
