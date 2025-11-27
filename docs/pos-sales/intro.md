@@ -19,5 +19,5 @@ https://funckingdeestoresalespos.azurewebsites.net/api/
 ## 🌐 Swagger UI
 
 ```txt
-https://funckingdeestoresalespos.azurewebsites.net/api/swagger/ui](https://funckingdeestoresalespos.azurewebsites.net/api/swagger/ui
+https://funckingdeestoresalespos.azurewebsites.net/api/swagger/ui
 ```
