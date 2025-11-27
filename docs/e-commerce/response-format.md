@@ -12,7 +12,7 @@ title: Response Format
     "success": true,
     "data": { ... },
     "errors": null,
-    "message": "Venta procesada correctamente"
+    "message": "Orden almacenada correctamente"
 }
 ```
 
@@ -24,11 +24,10 @@ title: Response Format
   "data": null,
   "errors": [
     {
-      "field": "PaymentMethodCode",
-      "message": "'Payment Method Code' must not be empty."
+      "field": "CustomerCode",
+      "message": "'Customer Code' must not be empty."
     },
-    { "field": "BranchCode", "message": "Branch Code cannot be empty" },
-    { "field": "WarehouseCode", "message": "Warehouse Code cannot be empty" }
+    { "field": "BillDate", "message": "Bill Date cannot be empty" }
   ],
   "message": "Validation failed"
 }
